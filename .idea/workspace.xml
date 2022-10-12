@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdrachten_1_2_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opleidingsaanbod.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 3/Labo 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdrachten_1_2_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/opdrachten_1_2_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opleidingsaanbod.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/opleidingsaanbod.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,17 +35,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ciuka/Documents/GitHub/Web-development",
-    "settings.editor.selected.configurable": "configurable.group.tools",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ciuka/Documents/GitHub/Web-development&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Test" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665249477422</updated>
       <workItem from="1665249480256" duration="12307000" />
+      <workItem from="1665578192198" duration="2358000" />
     </task>
     <servers />
   </component>
