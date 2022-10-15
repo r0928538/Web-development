@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homepage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +43,7 @@
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo4" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo3" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Test" />
     </key>
@@ -62,7 +60,7 @@
       <workItem from="1665578192198" duration="5010000" />
       <workItem from="1665671225722" duration="1413000" />
       <workItem from="1665843371927" duration="927000" />
-      <workItem from="1665847795583" duration="12790000" />
+      <workItem from="1665847795583" duration="13152000" />
     </task>
     <servers />
   </component>
