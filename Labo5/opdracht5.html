@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Opdracht 5</title>
+</head>
+<body>
+<article>
+<h1>Opdracht 5</h1>
+<p><span>Vink op het Styles tabblad enkele regels af en kijk welke effect dit heeft op de pagina. Probeer ook
+eens een aantal waarden aan te passen, verander bv. de tekstkleur van rood naar groen.</span></p>
+<p>Dit is de gewone tekst met de gewone style op dit pagina:</p>
+<img src="https://cdn.discordapp.com/attachments/1014979616148029531/1033738264458317884/unknown.png" alt="css style van een rode tekst">
+<br>
+<img src="https://cdn.discordapp.com/attachments/1014979616148029531/1033738317746929744/unknown.png" alt="de tekst zelf in rood, met margins en bepaalde breedte">
+<p>Dit is dezelfde tekst na dat ik met de style geprutst heb:</p>
+<img src="https://cdn.discordapp.com/attachments/1014979616148029531/1033738507056857239/unknown.png" alt="css style met alles afgevinkt en groene tekst">
+<br>
+<img src="https://cdn.discordapp.com/attachments/1014979616148029531/1033738555345866893/unknown.png" alt="dezelfde tekst, maar veel breeder en in groem">
+<p>Dit is allemaal wat er in die .css bestand op de zijkant staat: <br>
+  @media (max-width: 1040px) {<br>
+  .intro {<br>
+  height: 700px;<br>
+  }<br>
+  .intro .summary {<br>
+  left: auto;<br>
+  margin-top: 15px;<br>
+  text-align: center;<br>
+  top: auto;<br>
+  }<br>
+  .intro .summary p {<br>
+  float: none;<br>
+  /* margin: 0 auto 10px; */<br>
+  /* max-width: 300px; */<br>
+  width: 200;<br>
+  }<br>
+  .preamble {<br>
+  left: auto;<br>
+  margin: 0 2.5% 0 5%;<br>
+  top: 413px;<br>
+  width: 42.5%;<br>
+  }<br>
+  .explanation {<br>
+  margin: 0 5% 0 2.5%;<br>
+  width: 42.5%;<br>
+  }<br>
+  .participation h3,<br>
+  .participation p {<br>
+  left: auto;<br>
+  margin-left: 5%;<br>
+  width: 47%;<br>
+  }<br>
+  .participation:after {<br>
+  background-position: center;<br>
+  -webkit-background-size: contain;<br>
+  -moz-background-size: contain;<br>
+  background-size: contain;<br>
+  float: right;<br>
+  margin: -330px 5% 0 0;<br>
+  min-width: 0;<br>
+  position: static;<br>
+  width: 40%;<br>
+  }<br>
+  .benefits h3,<br>
+  .benefits p {<br>
+  margin-right: 5%;<br>
+  width: 47%;<br>
+  }<br>
+  .benefits:after {<br>
+  background-position: center;<br>
+  -webkit-background-size: contain;<br>
+  -moz-background-size: contain;<br>
+  background-size: contain;<br>
+  clear: left;<br>
+  margin: -230px 0 0 5%;<br>
+  min-width: 0;<br>
+  position: static;<br>
+  width: 40%;<br>
+  }<br>
+  .requirements {<br>
+  left: auto;<br>
+  margin-left: 0;<br>
+  padding: 0 5%;<br>
+  width: 90%;<br>
+  }<br>
+  .requirements p:nth-child(4) {<br>
+  right: 5%;<br>
+  width: 42.5%;<br>
+  }<br>
+  .requirements p:last-child {<br>
+  padding: 0 20% 20px;<br>
+  width: 60%;<br>
+  }<br>
+  aside:before {<br>
+  top: 170px;<br>
+  }<br>
+  aside:after {<br>
+  -webkit-animation: rise-short 1.5s 1 ease;<br>
+  -moz-animation: rise-short 1.5s 1 ease;<br>
+  -ms-animation: rise-short 1.5s 1 ease;<br>
+  -o-animation: rise-short 1.5s 1 ease;<br>
+  top: 275px;<br>
+  }
+  aside .wrapper {<br>
+  padding: 40px 5% 30px;<br>
+  width: 90%;<br>
+  }<br>
+  }</p>
+  <br>
+<p>Wat ik interessant vind, is dat er daar meerdere keren het woord "child" staat.</p>
+</article>
+</body>
+</html>
