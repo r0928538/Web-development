@@ -5,6 +5,47 @@
     <title>Opdracht 1</title>
 </head>
 <body>
-
+<article>
+<link rel="stylesheet" href="css/opdracht1lijststyle.css">
+<p><span>Herschrijf dit fragment en de CSS-regels zonder classes op elk &lt;li> element te moeten gebruiken:</span></p>
+<p>Code html:<br>
+&lt;ul><br>
+    &lt;li class="menuitem">&lt;a href="...">products&lt;/a>&lt;/li><br>
+    &lt;li class="menuitem">&lt;a href="...">distributors&lt;/a>&lt;/li><br>
+    &lt;li class="menuitem">&lt;a href="...">contact&lt;/a>&lt;/li><br>
+    &lt;/ul>
+</p>
+<p>Code css:<br>
+    .menuitem {<br>
+    display:inline-block;<br>
+    width:150px;<br>
+    }<br>
+    .menuitem > a {<br>
+    color:red;<br>
+    }<br>
+</p>
+<p>Herschreven html:<br>
+    &lt;ul class="menuitem"><br>
+    &lt;li>&lt;a href="...">products&lt;/a>&lt;/li><br>
+    &lt;li>&lt;a href="...">distributors&lt;/a>&lt;/li><br>
+    &lt;li>&lt;a href="...">contact&lt;/a>&lt;/li><br>
+    &lt;/ul>
+</p>
+<p>Herschreven css:<br>
+    .menuitem > li{<br>
+    display:inline-block;<br>
+    width:150px;<br>
+    }<br>
+    .menuitem > li > a{<br>
+    color:red;<br>
+    }<br>
+</p>
+<p>Wat er getoond wordt:</p>
+<ul class="menuitem">
+<li><a href="">products</a></li>
+<li><a href="">distributors</a></li>
+<li><a href="">contact</a></li>
+</ul>
+</article>
 </body>
 </html>

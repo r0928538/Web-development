@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo6/html/opdracht1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo6/html/opdracht3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo6/html/opdracht5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo6/html/opdracht6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styleVoorIndex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/html/css/opdracht1lijststyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/html/opdracht1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/html/opdracht1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +47,7 @@
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo6\html" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo4" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo3" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Test" />
@@ -73,7 +69,7 @@
       <workItem from="1666444726361" duration="9877000" />
       <workItem from="1666528733804" duration="10606000" />
       <workItem from="1666786423994" duration="34000" />
-      <workItem from="1666786490964" duration="648000" />
+      <workItem from="1666786490964" duration="2786000" />
     </task>
     <servers />
   </component>
