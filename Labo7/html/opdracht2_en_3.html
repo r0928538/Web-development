@@ -68,17 +68,31 @@
         <a id="Vrienden"><h2>Vrienden</h2></a>
         <div class="datagrid"><table>
             <thead><tr><th>Voornaam</th><th>Naam</th><th>Stad</th><th>Postcode</th><th>Straat</th><th>Huisnummer</th></tr></thead>
-            <tbody><tr><td>Mario</td><td>Mario</td><td>Donk City</td><td>9090</td><td>Supermariostraat</td><td>11</td></tr>
-            <tr class="alt"><td>Luigi</td><td>Mario</td><td>Donk City</td><td>9090</td><td>Supermariostraat</td><td>11</td></tr>
+            <tbody><tr><td>Mario</td><td>Mario</td><td class="onbekend"></td><td>9090</td><td>Supermariostraat</td><td>11</td></tr>
+            <tr class="alt"><td>Luigi</td><td>Mario</td><td class="onbekend"></td><td>9090</td><td>Supermariostraat</td><td>11</td></tr>
             <tr><td>Princess Peach</td><td>Toadstool</td><td>Mushroom Kingdom</td><td>9081</td><td>Paddenstoelenstraat</td><td>102</td></tr>
             <tr class="alt"><td>Bowser</td><td>King Koopa</td><td>Bumpsy Plains</td><td>9070</td><td>Kasteelstraat</td><td>42</td></tr>
             <tr><td>Waluigi</td><td>Jimmy</td><td>Diamond City</td><td>9082</td><td>Eilandstraat</td><td>58</td></tr>
             </tbody>
         </table></div>
-        <p class="vet">Zijn alle properties die de generator voorziet werkelijk nodig?
-        <br> Niet de footer om naar volgende pagina te gaan, want ik heb maar 5 vrienden op dit lijst.</p>
-        <p class="vet">De generator gebruikt voor bepaalde properties een browser prefix. Zijn die voor jouw browser (nog steeds) nodig?
-            <br> Neen.
+        <p class="vet">Opdracht 2:</p>
+        <p> Zijn alle properties die de generator voorziet werkelijk nodig?
+            <br> <span class="antwoord">Niet de footer om naar volgende pagina te gaan, want ik heb maar 5 vrienden op dit lijst.</span></p>
+        <p>De generator gebruikt voor bepaalde properties een browser prefix. Zijn die voor jouw browser (nog steeds) nodig?
+            <br> <span class="antwoord">Neen.</span>
+        </p>
+        <p class="vet">Opdracht 3:</p>
+        <p> De generator voorziet de cellen in deze rijen van een andere achtergrondkleur, zoek op waar dit precies
+            staat in de gegenereerde CSS.
+        <br><span class="antwoord"> Hier: .datagrid table tbody .alt td { background: #B0B9F4; color: #000000; }</span> </p>
+        <p> Waarom heeft de volgende CSS regel:
+            <br>.onbekend {background-color:red;}
+            <br>geen effect als je deze toepast op een &lt;td> cel in een &lt;tr> rij met class="alt", maar wel in een &lt;tr>
+        rij zonder deze 'alt' class?
+            <br><span class="antwoord"> Omdat de classe .alt een grotere specifiteit heeft, dus het heeft voorrang op de classe .onbekend.
+            De oplossing is om de classe .onbekend meer specifiek te maken dan classe .alt.
+            <br> Bv. op deze manier: .datagrid table tbody .alt td.onbekend, .onbekend{
+            background-color: lightcoral; }</span>
         </p>
     </div>
 </div>

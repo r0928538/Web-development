@@ -70,3 +70,11 @@ color-stop(0.05, #B8829F), color-stop(1, #434B7F) );
 .datagrid table tbody .alt td { background: #B0B9F4; color: #000000; }
 .datagrid table tbody td:first-child { border-left: none; }
 .datagrid table tbody tr:last-child td { border-bottom: none; }
+
+.datagrid table tbody .alt td.onbekend, .onbekend{
+    background-color: lightcoral;
+}
+
+.antwoord{
+    font-style: italic;
+}
