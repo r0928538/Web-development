@@ -7,7 +7,7 @@ section>header {
     background-image: url("https://cdn.discordapp.com/attachments/999343612980641792/1039900597882732595/header.jpg");
     ;
 }
-section>header>h1 {
+h1 {
     color: white;
     font-size: 40px;
     font-weight: bolder;
@@ -36,7 +36,7 @@ nav>a {
 }
 
 
-article>header>h1 {
+h2 {
     font-size: 24px;
     text-decoration-line: underline;
     padding-bottom: 15px;
