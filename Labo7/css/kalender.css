@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid #555555;
+    border-collapse: collapse;
+}
+table{
+    border: 2px solid black;
+}
+th{
+    background-color: #c8bef0;
+}
+tr>th.june{
+    background-color: #aaaac8;
+}
+td:first-child, td:last-child{
+    background-color: #ffdcdc;
+}
+td.andermaand{
+    background-color: lightgray;
+}
+td.vrijedag{
+    background-color: #fa7878;
+}
