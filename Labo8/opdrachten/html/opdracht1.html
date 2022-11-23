@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Opdracht 1</title>
+</head>
+<body>
+<div>
+<h1>Opdracht 1</h1>
+<link rel="stylesheet" href="../css/opdracht1.css">
+<p>Inline: Elementen worden naast elkaar geplaatst als tekst.
+    De width en height instellingen worden niet gebruikt.
+    De elementen worden gewrapt indien nodig.</p>
+<img src="https://cdn.discordapp.com/attachments/999343612980641792/1044969765095096390/image.png" alt="Cijfers in inline">
+<p>Block: Elementen worden onder elkaar geplaatst.
+    Je kan duidelijk de height en width zien.</p>
+<img src="https://cdn.discordapp.com/attachments/999343612980641792/1044970735787061349/image.png" alt="Cijfers in rode blokken.">
+<p>Inline-block: Elementen worden naast elkaar geplaatst.
+    Je kan duidelijk de height en width zien.
+    De elementen worden gewrapt indien nodig.</p>
+<img src="https://cdn.discordapp.com/attachments/999343612980641792/1044970929610047659/image.png" alt="Cijfers in rode inline-blokken.">
+</div>
+<div>
+    <h1>Opdracht 2</h1>
+    <p class="vraag">Vanwaar komen de lege ruimtes tussen blokken die naast elkaar staan?</p>
+    <p>Inline zet spaties tussen de elementen net zoals tussen woorden.</p>
+</div>
+<div>
+    <h1>Opdracht 3</h1>
+    <p class="vraag">Waarom staat de tekst in de blokken horizontaal gecentreerd?</p>
+    <img src="https://cdn.discordapp.com/attachments/999343612980641792/1044975158856786000/image.png"
+         alt="Google inspectie met tekst: div{text-align: center}">
+    <p>In de css staat er dat in de div de tekst centraal moet staan.</p>
+    <p class="vraag">Ga na dat een property vertical-align:center geen effect heeft. Waarom eigenlijk niet?</p>
+    <p>Vertical-align:center bestaat niet binnen inline-block.</p>
+    <p class="vraag">Ga na dat vertical-align:middle er niet voor zorgt dat de tekst verticaal gecentreerd wordt. Wat
+        doet vertical-align dan wel?</p>
+    <p>De tekst verplaats niet. De blokken verplaatsen wel naar het midden in vergelijking met
+    de andere blokken op dezelfde rij.</p>
+    <img src="https://cdn.discordapp.com/attachments/999343612980641792/1044980511413645312/image.png"
+         alt="Blokken die langs boven staan">
+    <img src="https://cdn.discordapp.com/attachments/999343612980641792/1044980799885279232/image.png"
+         alt="Blokken die in het midden staan">
+    <p class="vraag">• Wat is de ‘simpele’ manier om een één enkele regel tekst verticaal te centreren?</p>
+    <p>Line-height gebruiken met de hoogte van de element waarin de tekst staat.</p>
+    <p>
+    Voorbeeld:
+        <br>.area {
+        <br>width:100px;
+        <br>height:100px;
+        <br>background:red;
+        <br>display:inline-block;
+        <br>line-height: 100px;
+        }
+    </p>
+    <p class="vraag">Welke truc wordt vaak gebruikt om meerdere regels verticaal te centreren? </p>
+    <p> display: table-cell;<br>
+        vertical-align: center;</p>
+    <p class="vraag">In 'styles.css' staan twee verschillende CSS regels die de height instellen van een element met
+        class="area tall". Waarom krijgt de regel voor class 'tall' voorrang?</p>
+    <p>Omdat ze even specifiek zijn en area staat eerst, dus tall wordt later uitgevoerd en
+    overschrijft hoogte in area.</p>
+</div>
+<div>
+    <h1>Opdracht 4</h1>
+    <p class="vraag">Geef elementen 09, 12 en 14 de 'floaty' class</p>
+    <p>De elementen bevinden zich nog steeds op dezelfde hoogde.<br>
+    Element 10 neemt automatisch de plaats van element 09 in wanneer dat
+    dit element float.<br>
+    Indien 12 en 14 genoeg plaats hebben, staan ze netjes naast elkaar.
+    Indien niet, staat 12 iets hoger omdat die dan op dezelfde regel als de tekst staat,
+    niet op dezelfde regel als de blokken.<br>
+    Er is een ruimte tussen twee rode elementen omdat ze beide inline-blokken zijn.
+    Er is geen ruimte tussen float en andere elementen, omdat float dit ruimte niet maakt.<br>
+    Clear heeft geen invloed op inline-block, want alle blokken staan toch al naast elkaar.</p>
+</div>
+<div>
+    <h1>Opdracht 5</h1>
+    <img src="https://cdn.discordapp.com/attachments/999343612980641792/1044989449932656660/image.png"
+     alt="Naast element 9 die iets langer is nemen de volgende elementen 2 regels in, in plaats van 1">
+    <p>Geen break op 13</p>
+    
+</div>
+
+</body>
+</html>

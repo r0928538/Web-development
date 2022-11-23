@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/opdrachten/css/opdracht1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/opdrachten/html/opdracht1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/voorbeelden positionering/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/voorbeelden positionering/voorbeeld1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/voorbeelden positionering/voorbeeld2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/voorbeelden positionering/voorbeeld3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/voorbeelden positionering/voorbeeld4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gastspreker/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Gastspreker/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -25,6 +32,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FrU14pvlcgNx6txcDKJztoftiv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,11 +57,11 @@
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo8\voorbeelden positionering" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Gastspreker\fonts" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Gastspreker" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Gastspreker\images" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo6\html" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo4" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,6 +86,7 @@
       <workItem from="1669142303414" duration="4114000" />
       <workItem from="1669198124944" duration="2070000" />
       <workItem from="1669205137656" duration="1469000" />
+      <workItem from="1669209803184" duration="5499000" />
     </task>
     <servers />
   </component>
