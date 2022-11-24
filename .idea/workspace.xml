@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Labo8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo8/opdrachten/html/opdracht1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/opdrachten/html/opdracht1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/opdrachten/css/lorem_ipsum.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/opdrachten/css/lorem_ipsum_extra_width.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/opdrachten/html/lorem_ipsum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/opdrachten/html/lorem_ipsum_extra_width.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo8/opdrachten/css/opdracht1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/opdrachten/css/opdracht1-5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo8/opdrachten/html/opdracht1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/opdrachten/html/opdracht1-5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +55,11 @@
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo8\opdrachten\css" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo8\voorbeelden positionering" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Gastspreker\fonts" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Gastspreker" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Gastspreker\images" />
-      <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo6\html" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,6 +85,8 @@
       <workItem from="1669198124944" duration="2070000" />
       <workItem from="1669205137656" duration="1469000" />
       <workItem from="1669209803184" duration="5956000" />
+      <workItem from="1669304660272" duration="1926000" />
+      <workItem from="1669316587744" duration="2427000" />
     </task>
     <servers />
   </component>

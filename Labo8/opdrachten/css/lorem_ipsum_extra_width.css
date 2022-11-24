@@ -1,0 +1,9 @@
+section{
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px black solid;
+    width: calc(50% - 20px);
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+}
