@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    align-content: center;
+    width: 95%;
+}
+body>section>article{
+    box-sizing: border-box;
+    width: 70%;
+    display: inline-block;
+}
+body>article{
+    box-sizing: border-box;
+    width: 30%;
+    display: inline-block;
+    float: right;
+}
