@@ -1,7 +1,27 @@
 body{
-    display: flex;
-    align-content: center;
+    display: inline-block;
     width: 95%;
+    font-family: Helvetica, "Helvetica", serif;
+    font-size: 1.2em;
+}
+h1, h2{
+    color: #007e7e;
+}
+h1{
+    font-size: 150%;
+}
+h2{
+    font-size: 130%;
+}
+header{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 100%;
+    clear:both;
+    text-align: center;
+}
+header, header>p, header>img{
+    margin-top: 0;
 }
 body>section>article{
     box-sizing: border-box;
@@ -10,7 +30,47 @@ body>section>article{
 }
 body>article{
     box-sizing: border-box;
-    width: 30%;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: calc(30% - 20px);
     display: inline-block;
     float: right;
+    text-align: center;
+    border: 2px solid lightskyblue;
+}
+body>article>h2{
+    color: #8c0000;
+}
+body>article>h1{
+    color: black;
+    background-image: url("https://cdn.discordapp.com/attachments/999343612980641792/1045677103271661638/cocktail.gif");
+    background-position-y: top;
+    padding-top: 45px;
+}
+body>article>a:hover, body>article>p>a:hover {
+    color: saddlebrown;
+}
+footer{
+    font-size: 0.6em;
+    text-align: center;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 100%;
+    clear:both;
+}
+.guarantee{
+    margin: 30px;
+    padding: 20px;
+    padding-left: 70px;
+    background-image: url("https://cdn.discordapp.com/attachments/999343612980641792/1045677105423339590/background.gif");
+    background-repeat: no-repeat;
+    background-color: #a7cece;
+    color: #444444;
+    border-color: #efefef;
+    border-style: dashed;
+}
+
+a{
+    color: #332222;
 }
