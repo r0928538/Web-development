@@ -4,6 +4,7 @@ body{
     flex-direction:column;
     justify-content:center;
     margin: auto;
+    font-family: Arial, "Arial", serif;
 }
 header{
     background-image: url("https://cdn.discordapp.com/attachments/999343612980641792/1047520171377561701/bgsky3.jpg");
