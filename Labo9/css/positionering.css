@@ -4,13 +4,14 @@ main>article:nth-child(odd) img{
 main>article:nth-child(even) img{
     float: left;
 }
-article{
+article {
     font-size: 1.25em;
     margin-bottom: 10px;
     margin-left: 10px;
     margin-right: 10px;
     display: inline-block;
-    border: }
+    border: 2px solid black;
+}
 img{
     margin: 10px;
 }

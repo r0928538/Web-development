@@ -1,0 +1,33 @@
+body{
+    width: 960px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    margin: auto;
+}
+header{
+    background-image: url("https://cdn.discordapp.com/attachments/999343612980641792/1047520171377561701/bgsky3.jpg");
+    height: 200px;
+    color: darkblue;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+}
+header>p:first-child{
+    font-size: 300%;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 0;
+}
+header>p:nth-child(2){
+    font-size: 240%;
+    font-weight: bold;
+}
+header>img{
+    z-index: 10;
+    float: right;
+    vertical-align: top;
+    position: absolute;
+    bottom: 60px;
+    right: 90px;
+}
