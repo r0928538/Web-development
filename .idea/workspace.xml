@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Labo8/opdrachten/css/lorem_ipsum.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/opdrachten/css/lorem_ipsum.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo8/opdrachten/css/lorem_ipsum_extra_width.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/opdrachten/css/lorem_ipsum_extra_width.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo8/opdrachten/html/lorem_ipsum.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/opdrachten/html/lorem_ipsum.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo8/opdrachten/html/lorem_ipsum_extra_width.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/opdrachten/html/lorem_ipsum_extra_width.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/css/positionering.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/html/positionering.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +52,11 @@
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo9\html" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo8\opdrachten\html" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo8\opdrachten\css" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo8\voorbeelden positionering" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Gastspreker\fonts" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Gastspreker" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -89,6 +89,7 @@
       <workItem from="1669494194054" duration="209000" />
       <workItem from="1669541433589" duration="551000" />
       <workItem from="1669542114099" duration="293000" />
+      <workItem from="1669815143684" duration="2278000" />
     </task>
     <servers />
   </component>
