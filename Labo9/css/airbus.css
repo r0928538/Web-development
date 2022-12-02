@@ -37,22 +37,21 @@ footer{
     box-sizing: border-box;
     width: 960px;
 }
-footer>div:first-child, div:nth-child(2){
+footer>div:first-child{
     background-color: #666666;
     color: white;
-    box-sizing: border-box;
-    padding-left: 120px;
-    margin: 0;
     display: flex;
-    width: fit-content;
-}
-footer>div:first-child{
-    display: inline-block;
+    box-sizing: border-box;
+    margin: 0;
     line-height: 2em;
+    width: 960px;
 }
-footer>div:nth-child(2){
-    display: inline-block;
-    line-height: 2em;
+footer>div>div:first-child{
+    width: min-content;
+    padding-left: 120px;
+}
+footer>div>div:nth-child(2) {
+    padding-left: 120px;
 }
 footer>div:last-child{
     background-color: white;
@@ -60,4 +59,5 @@ footer>div:last-child{
     display: inline-block;
     width: 960px;
     text-align: center;
+    clear: both;
 }
