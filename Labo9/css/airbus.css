@@ -1,12 +1,17 @@
-body{
+body{ /* Pagina centreren */
     width: 960px;
     display:flex;
-    flex-direction:column;
+    flex-direction: column;
     justify-content:center;
     margin: auto;
     font-family: Arial, "Arial", serif;
 }
-header{
+html{
+    background-image: url("https://cdn.discordapp.com/attachments/999343612980641792/1047520118671933560/pagebackground.png");
+    background-size: contain;
+    background-color: #555555;
+}
+header{ /* Wolkjes van boven */
     background-image: url("https://cdn.discordapp.com/attachments/999343612980641792/1047520171377561701/bgsky3.jpg");
     height: 200px;
     color: darkblue;
@@ -14,17 +19,17 @@ header{
     display: inline-block;
     position: relative;
 }
-header>p:first-child{
+header>p:first-child{ /* Die tekst op de wolken */
     font-size: 300%;
     font-style: italic;
     font-weight: bold;
     margin-top: 0;
 }
-header>p:nth-child(2){
+header>p:nth-child(2){ /* Die tekst onder de tekst op de wolken */
     font-size: 240%;
     font-weight: bold;
 }
-header>img{
+header>img{ /* Die vlieger daar van boven */
     z-index: 10;
     float: right;
     vertical-align: top;
@@ -32,12 +37,12 @@ header>img{
     bottom: 60px;
     right: 90px;
 }
-footer{
+footer{ /* Van onder */
     display: inline-block;
     box-sizing: border-box;
     width: 960px;
 }
-footer>div:first-child{
+footer>div:first-child{ /* Die tekst van onder */
     background-color: #666666;
     color: white;
     display: flex;
@@ -46,18 +51,97 @@ footer>div:first-child{
     line-height: 2em;
     width: 960px;
 }
-footer>div>div:first-child{
+footer>div>div:first-child{ /* Eerste deel van tekst van onder */
     width: min-content;
     padding-left: 120px;
 }
-footer>div>div:nth-child(2) {
+li>a{ /* Die links van onder */
+    color: white;
+}
+li>a:hover { /* Ook die links */
+    color: red;
+}
+footer>div>div:nth-child(2) { /* Tweede deel van die tekst daar van onder */
     padding-left: 120px;
 }
-footer>div:last-child{
+footer>div:last-child{ /* Copyright */
     background-color: white;
     color: black;
     display: inline-block;
     width: 960px;
     text-align: center;
     clear: both;
+}
+div>article{ /* Die nieuwspagina rechts */
+    width: 250px;
+    display: inline-block;
+    float: right;
+    box-sizing: border-box;
+    color: #666666;
+    background-color: #dddddd;
+    font-size: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #999999;
+}
+article>h3{ /* Titels op die nieuwspagina */
+    color: white;
+    background-color: blue;
+    font-size: 120%;
+    text-align: center;
+    box-sizing: border-box;
+    width: 250px;
+    margin-left: -10px;
+}
+body>div{ /*samengevoegd main + gallerij vliegers */
+    display: inline-block;
+    float: left;
+    background-color: white;
+    box-sizing: border-box;
+}
+section>article{ /* main */
+    display: flex;
+    width: 700px;
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    margin-left: 10px;
+}
+span{
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+section>article>img{ /* logo */
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 100px;
+    height: 80px;
+ }
+
+section>section{ /* De gallerij van vliegers*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+    padding: 10px;
+    margin: 0;
+    background-color: #999999;
+}
+.foto{ /* Vliegers in de gallerij */
+    width: 180px;
+    height: 180px;
+    padding: 10px;
+    background-color: white;
+    border: 1px dotted white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h4{
+    margin:0;
+    width:0;
+    height: 0;
+    font-size: 0;
 }
