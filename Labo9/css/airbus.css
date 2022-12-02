@@ -32,3 +32,30 @@ header>img{
     bottom: 60px;
     right: 90px;
 }
+footer{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 960px;
+}
+footer>div:first-child, div:nth-child(2){
+    background-color: #666666;
+    color: white;
+    box-sizing: border-box;
+    padding-left: 120px;
+    margin: 0;
+    display: inline-block;
+    line-height: 2em;
+}
+footer>div:first-child{
+
+}
+footer>div:nth-child(2){
+    width: fit-content;
+}
+footer>div:last-child{
+    background-color: white;
+    color: black;
+    display: inline-block;
+    width: 960px;
+    text-align: center;
+}
