@@ -7,7 +7,7 @@ body{ /* Pagina centreren */
     font-family: Arial, "Arial", serif;
 }
 html{
-    background-image: url("https://cdn.discordapp.com/attachments/999343612980641792/1047520118671933560/pagebackground.png");
+    background-image: url("https://cdn.discordapp.com/attachments/1051176907519045683/1051177663391350885/pagebackground.png");
     background-color: #555555;
     display:flex;
     flex-direction: column;
@@ -15,7 +15,7 @@ html{
     background-size: 960px;
 }
 header{ /* Wolkjes van boven */
-    background-image: url("https://cdn.discordapp.com/attachments/999343612980641792/1047520171377561701/bgsky3.jpg");
+    background-image: url("https://cdn.discordapp.com/attachments/1051176907519045683/1051177595078705202/bgsky3.jpg");
     height: 200px;
     color: darkblue;
     text-align: center;
@@ -126,6 +126,8 @@ section>article>img{ /* logo */
 
 section>section{ /* De gallerij van vliegers*/
     display: flex;
+    width: 700px;
+    box-sizing: border-box;
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-content: space-evenly;
