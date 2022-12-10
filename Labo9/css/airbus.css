@@ -8,8 +8,11 @@ body{ /* Pagina centreren */
 }
 html{
     background-image: url("https://cdn.discordapp.com/attachments/999343612980641792/1047520118671933560/pagebackground.png");
-    background-size: contain;
     background-color: #555555;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    background-size: 960px;
 }
 header{ /* Wolkjes van boven */
     background-image: url("https://cdn.discordapp.com/attachments/999343612980641792/1047520171377561701/bgsky3.jpg");
