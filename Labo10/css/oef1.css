@@ -36,16 +36,15 @@ figcaption {
 	body {
 		background-color: lightsteelblue;
 	}
+	div {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+	}
 }
 
 @media screen and (min-width: 992px) {
 	body {
 		background-color: lightgreen;
-	}
-
-	div {
-		display: grid;
-		grid-template-columns: 1fr 1fr;
 	}
 
 	div {
