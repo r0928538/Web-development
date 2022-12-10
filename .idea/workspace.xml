@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Labo9/html/positionering.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo9/html/positionering.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/css/oef1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/html/oef1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/cat1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/cat2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/cat3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/images/cat4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo9/css/positionering.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo9/css/positionering.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -49,11 +59,11 @@
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\images" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\css" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\html" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo9\html" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo8\opdrachten\html" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo8\opdrachten\css" />
-      <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo8\voorbeelden positionering" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Gastspreker\fonts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -93,7 +103,7 @@
       <workItem from="1669986658266" duration="1596000" />
       <workItem from="1669994635163" duration="927000" />
       <workItem from="1670001428891" duration="12714000" />
-      <workItem from="1670690313563" duration="2213000" />
+      <workItem from="1670690313563" duration="5623000" />
     </task>
     <servers />
   </component>
