@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo10/css/oef1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/html/oef1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/cat1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/cat2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/cat3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/images/cat4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/html/bootstrap.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/html/bootstrap2.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo9/css/positionering.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo9/css/positionering.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,27 +36,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ciuka/Downloads/frontendmentorprofilecardBeginSituatie/frontendmentorprofilecardBeginSituatie/index.html&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ciuka/Documents/GitHub/Web-development/Labo10/html",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\html" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\css" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo7\html" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\images" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\css" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\html" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\css" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\images" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo9\html" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo8\opdrachten\html" />
     </key>
@@ -103,7 +100,7 @@
       <workItem from="1669986658266" duration="1596000" />
       <workItem from="1669994635163" duration="927000" />
       <workItem from="1670001428891" duration="12714000" />
-      <workItem from="1670690313563" duration="5623000" />
+      <workItem from="1670690313563" duration="14423000" />
     </task>
     <servers />
   </component>
