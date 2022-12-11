@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo10/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/html/bootstrap.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/html/bootstrap2.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo10/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +95,7 @@
       <workItem from="1669986658266" duration="1596000" />
       <workItem from="1669994635163" duration="927000" />
       <workItem from="1670001428891" duration="12714000" />
-      <workItem from="1670690313563" duration="14423000" />
+      <workItem from="1670690313563" duration="14777000" />
     </task>
     <servers />
   </component>
