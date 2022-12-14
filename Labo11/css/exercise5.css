@@ -1,5 +1,8 @@
 .container{
-
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    gap: 10px;
 }
 
 .container .block{
@@ -11,26 +14,29 @@
 }
 
 .block.block1{
-
+    background-color: red;
+    grid-area: 1 / 1 / 2 / 5;
  }
 .block.block2{
-
+    background-color: #007e7e;
+    grid-area: 2 / 1 / 2 / 5;
 }
 .block.block3{
-
+    background-color: #c8bef0;
 }
 .block.block4{
-
+    background-color: greenyellow;
+    grid-area: 3 / 2 / 4 / 5
 }
 .block.block5{
-
+    display: none;
 }
 .block.block6{
-
+    display: none;
 }
 .block.block7{
-
+    display: none;
 }
 .block.block8{
-
+    display: none;
 }
