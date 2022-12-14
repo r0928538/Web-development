@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Labo9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo9/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ciuka/Downloads/frontendmentorprofilecardBeginSituatie/frontendmentorprofilecardBeginSituatie/index.html&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ciuka/Documents/GitHub/Web-development/Labo10/html&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -45,15 +43,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\html" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\css" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo7\html" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\css" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\html" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\images" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo9\html" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo8\opdrachten\html" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo8\opdrachten\css" />
-      <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo8\voorbeelden positionering" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Gastspreker\fonts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -92,7 +92,9 @@
       <workItem from="1669982260097" duration="3181000" />
       <workItem from="1669986658266" duration="1596000" />
       <workItem from="1669994635163" duration="927000" />
-      <workItem from="1670001428891" duration="12570000" />
+      <workItem from="1670001428891" duration="12714000" />
+      <workItem from="1670690313563" duration="14794000" />
+      <workItem from="1670768010927" duration="7729000" />
     </task>
     <servers />
   </component>
