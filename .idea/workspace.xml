@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/les1/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les1/css/rekenmachine.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les1/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les1/html/rekenmachine.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les1/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les1/js/rekenmachine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +97,7 @@
       <workItem from="1670768010927" duration="7729000" />
       <workItem from="1671024808722" duration="5243000" />
       <workItem from="1676293203036" duration="4000" />
-      <workItem from="1676304025706" duration="3171000" />
+      <workItem from="1676304025706" duration="3491000" />
     </task>
     <servers />
   </component>
