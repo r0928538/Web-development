@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="" />
+    <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/les1/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les1/css/rekenmachine.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les1/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les1/html/rekenmachine.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les1/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les1/js/rekenmachine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -29,18 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ciuka/Documents/GitHub/Web-development/Labo10/html&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ciuka/Documents/GitHub/Web-development",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\html" />
@@ -49,11 +58,11 @@
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les1\js" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les1\css" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les1\html" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo11" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo11\html" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\css" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\html" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -96,6 +105,8 @@
       <workItem from="1670690313563" duration="14794000" />
       <workItem from="1670768010927" duration="7729000" />
       <workItem from="1671024808722" duration="5243000" />
+      <workItem from="1676293203036" duration="4000" />
+      <workItem from="1676304025706" duration="3171000" />
     </task>
     <servers />
   </component>
