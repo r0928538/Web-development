@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/les2/html/oef6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/html/opdracht_kopieer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/html/opdracht_substring.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/scripts/oef6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/scripts/opdracht_kopieer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/scripts/opdracht_substring.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les2/html/opdracht_array.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les2/scripts/opdracht_array.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -109,7 +107,7 @@
       <workItem from="1676304025706" duration="3491000" />
       <workItem from="1676375326027" duration="18000" />
       <workItem from="1676736809794" duration="2886000" />
-      <workItem from="1676811178736" duration="4896000" />
+      <workItem from="1676811178736" duration="6731000" />
     </task>
     <servers />
   </component>
