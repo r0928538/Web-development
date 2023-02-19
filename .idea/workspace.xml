@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/les2/html/oef1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/html/oef3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/html/oef4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/html/oef5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/images/debugger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/scripts/oef1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/scripts/oef3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/scripts/oef4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/scripts/oef5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les2/styles/oef4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les2/html/oef6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les2/html/opdracht_kopieer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les2/html/opdracht_substring.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les2/scripts/oef6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les2/scripts/opdracht_kopieer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les2/scripts/opdracht_substring.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +109,7 @@
       <workItem from="1676304025706" duration="3491000" />
       <workItem from="1676375326027" duration="18000" />
       <workItem from="1676736809794" duration="2886000" />
-      <workItem from="1676811178736" duration="1803000" />
+      <workItem from="1676811178736" duration="4896000" />
     </task>
     <servers />
   </component>
