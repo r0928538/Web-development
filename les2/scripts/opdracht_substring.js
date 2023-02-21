@@ -10,7 +10,6 @@ const substringBerekenen = () => {
     let txtRechts=document.getElementById("txtRechts");
     let links=parseInt(txtLinks.value, 10);
     let rechts=parseInt(txtRechts.value, 10);
-    console.log(txtInput);
     let tekst=txtInput.value;
     tekst = tekst.substring(links, rechts);
     txtOutput.innerHTML= tekst;
