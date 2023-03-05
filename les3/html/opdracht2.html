@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Opdracht 2</title>
+</head>
+<body>
+<p><strong>Waar wordt de event listener gekoppeld aan de slider?</strong><br>
+    Hier wordt die gevonden voor de koppeling: let sliders = document.getElementsByClassName("slider");<br>
+    Hier wordt die uiteindelijk gekoppeld: sliders[0].addEventListener("change", update);<br>
+    en hier ook: sliders[0].addEventListener("input", update);
+</p>
+<p><strong>Waarom moeten we die op twee soorten events koppelen?</strong><br>
+    Indien je input weglaat, gaat de waarde naar console enkel als je de slider loslaat met jouw muis.<br>
+    Door beide te gebruiken ben je zeker dat het op alle browsers werkt.<br>
+    En zonder beide werkt het helemaal niet meer.
+</p>
+<p><strong>In de CSS file wordt nergens een rode kleur opgegeven, waar wordt dan wel de rode kleur van
+    het blokje ingesteld?</strong><br>
+    In de javascript.
+</p>
+<p><strong>Waarom schrijven we telkens sliders[0] en colorDemos[0] en niet gewoon sliders of
+    colorDemos?</strong><br>
+    Omdat colorDemos en sliders beide een nodelijst zijn en het gaan specifiek om de eerste element in de lijst
+    (dus een specifieke slider en gekleurd blokje indien er meerdere zijn).
+</p>
+<p>Waar vind je de CSS-properties die programmatorisch werden ingesteld, zoals bv. de rode
+    achtergrondkleur van het blokje?<br>
+    Hier in de javascript: colorDemos[0].style.backgroundColor="red";
+</p>
+</body>
+</html>

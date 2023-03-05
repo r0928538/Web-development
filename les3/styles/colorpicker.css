@@ -1,0 +1,18 @@
+.colorDemo {
+    width:100px;
+    height:100px;
+    border:1px solid black;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+div{
+    display: flex;
+    column-gap: 10px;
+    line-height: 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border:10px solid lightgray;
+    width: 430px;
+    padding: 10px;
+}
