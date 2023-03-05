@@ -25,7 +25,7 @@ const bereken = () => {
     sub2=sub2 + sub2*(parseInt(btw2, 10)/100);
     subs[1].innerHTML = sub2;
     let sub3=(parseFloat(prijs3, 10))*parseInt(aantaal3, 10);
-    sub1=sub3 + sub3*(parseInt(btw3, 10)/100);
+    sub3=sub3 + sub3*(parseInt(btw3, 10)/100);
     subs[2].innerHTML = sub3;
     totaal.innerHTML = sub1 + sub2 + sub3;
 }
