@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulier elementen</title>
+    <link rel="stylesheet" href="../styles/formulierElementen.css">
+</head>
+<body>
+<form action="formulierElementen.html" method="post">
+    <span>First name*: </span><label for="firstname"></label><input type="text" name="firstname" id="firstname" size="20" required="required" placeholder="Your first name" autofocus="autofocus">
+    <br><span>Last name*: </span><label for="lastname"></label><input type="text" name="lastname" id="lastname" size="20" required="required" placeholder="Your last name">
+    <br><span>Which sport do you train?</span>
+    <br><input type="checkbox" name="sport" value="Running" id="running">
+    <label for="running">Running</label>
+    <br><input type="checkbox" name="sport" value="Swimming" id="swimming">
+    <label for="swimming">Swimming</label>
+    <br><input type="checkbox" name="sport" value="Rowing" id="rowing">
+    <label for="rowing">Rowing</label>
+    <br><span>What is your gender?</span>
+    <br><input type="radio" name="gender" value=”Man" id="man">
+    <label for="man">Man</label>
+    <br><input type="radio" name="gender" value=”Woman" id="woman">
+    <label for="woman">Woman</label>
+    <br><span>Favorite movie: </span><label for="movie"></label><input type="text" name="movie" id="movie" size="20">
+    <br><span>Favorite quote: </span><label for="quote"></label><input type="text" name="quote" id="quote" size="20" placeholder="Write your favorite quote">
+    <br><span>Password*: </span><label for="password"></label><input type="password" name="password" id="password" size="20" maxlength="20" required="required">
+    <br>
+    <label for="food">Favorite food:</label>
+        <select id="food">
+            <option value="egg">Egg</option>
+            <option value="spaghetti">Spaghetti</option>
+            <option value="frenchfries">French fries</option>
+            <option value="hamburger" selected>Hamburger</option>
+        </select>
+    <label for="picture"></label>
+    <br><input type="file" id="picture">
+    <br><span>Email address: </span><label for="email"></label><input type="email" name="email" id="email" size="20" placeholder="Enter your email address">
+    <br><span>Favorite site: </span><label for="site"></label><input type="url" name="site" id="site" size="20" placeholder="Enter URL of your fav site">
+    <br><span>Favorite number between 1-10: </span><label for="number10"></label><input type="number" min="1" max="10" id="number10">
+    <br><span>Favorite number between 11-1000: </span><label for="number1000"></label><input type="range" min="11" max="1000" id="number1000">
+    <br><span>When were you born? </span><label for="birth"></label><input type="date" id="birth">
+    <br><span>Belgium zip-code reg number*: </span><label for="zip"></label><input type="text" id="zip" required="required" size="12" placeholder="9999">
+    <br><span>Search for something </span><label for="search"></label><input type="search" id="search">
+    <br><span>What is your favorite color? </span><label for="color"></label><input type="color" id="color">
+    <br><label for="submit"></label><input type="submit" id="submit" value="Submit">
+</form>
+</body>
+</html>
