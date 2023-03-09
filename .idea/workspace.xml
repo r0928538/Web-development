@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/les4/html/opdracht.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/les4/html/formulierElementen.html" beforeDir="false" afterPath="$PROJECT_DIR$/les4/html/formulierElementen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,7 @@
       <workItem from="1677945941226" duration="27221000" />
       <workItem from="1678282900055" duration="8297000" />
       <workItem from="1678306571250" duration="2203000" />
-      <workItem from="1678362426355" duration="2536000" />
+      <workItem from="1678362426355" duration="2878000" />
     </task>
     <servers />
   </component>
