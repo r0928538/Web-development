@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/les4/html/formulierElementen.html" beforeDir="false" afterPath="$PROJECT_DIR$/les4/html/formulierElementen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/html/deenhet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/html/formvalidatie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/html/formwaarden.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/html/gemeenten.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/html/trigrams.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/scripts/deenhet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/scripts/formvalidatie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/scripts/formwaarden.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/scripts/gemeenten.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/scripts/trigrams.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/styles/formvalidatie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +25,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -53,11 +66,11 @@
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les5\scripts" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les3\images" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les3\scripts" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les3\styles" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les3\html" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les2\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -109,7 +122,9 @@
       <workItem from="1677945941226" duration="27221000" />
       <workItem from="1678282900055" duration="8297000" />
       <workItem from="1678306571250" duration="2203000" />
-      <workItem from="1678362426355" duration="2878000" />
+      <workItem from="1678362426355" duration="3093000" />
+      <workItem from="1678887118829" duration="7951000" />
+      <workItem from="1678903849966" duration="14984000" />
     </task>
     <servers />
   </component>
