@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/les6/html/colorpicker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les6/html/extra.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les6/images/Untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les6/scripts/colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les6/scripts/extra.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les6/styles/colorpicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les6/styles/extra.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,11 +62,11 @@
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les6\images" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les6\styles" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les6\scripts" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les6\html" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les5\scripts" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les3\images" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les3\scripts" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les3\styles" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les3\html" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -112,6 +121,8 @@
       <workItem from="1678362426355" duration="3093000" />
       <workItem from="1678887118829" duration="7951000" />
       <workItem from="1678903849966" duration="15161000" />
+      <workItem from="1678972847241" duration="221000" />
+      <workItem from="1679493030225" duration="7129000" />
     </task>
     <servers />
   </component>
