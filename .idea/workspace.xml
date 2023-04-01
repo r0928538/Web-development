@@ -2,14 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/les6/html/colorpicker.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les6/html/extra.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les6/images/Untitled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les6/scripts/colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les6/scripts/extra.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les6/styles/colorpicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les6/styles/extra.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/html/hitanobject.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/html/matchinggame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/images/achterkant.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/images/hitanobject0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/images/hitanobject1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/images/hitanobject2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/images/hitanobject3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/images/hitanobject4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/images/kaart1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/images/kaart2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/images/kaart3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/images/kaart4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/images/kaart5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/images/kaart6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/scripts/hitanobject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/scripts/memorygame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/styles/hitanobject.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les7/styles/memorygame.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -47,7 +59,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ciuka/Documents/GitHub/Web-development&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ciuka/Documents/GitHub/Web-development/les7/scripts&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
@@ -56,17 +68,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les7\scripts" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\html" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\css" />
       <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo7\html" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les7\scripts" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les7\images" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les7\styles" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les7\html" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les6\images" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les6\styles" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les6\scripts" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les6\html" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les5\scripts" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -122,7 +135,12 @@
       <workItem from="1678887118829" duration="7951000" />
       <workItem from="1678903849966" duration="15161000" />
       <workItem from="1678972847241" duration="221000" />
-      <workItem from="1679493030225" duration="7129000" />
+      <workItem from="1679493030225" duration="7422000" />
+      <workItem from="1679774154155" duration="1129000" />
+      <workItem from="1679908807929" duration="13000" />
+      <workItem from="1680092522109" duration="9436000" />
+      <workItem from="1680182803791" duration="4169000" />
+      <workItem from="1680286851037" duration="15777000" />
     </task>
     <servers />
   </component>

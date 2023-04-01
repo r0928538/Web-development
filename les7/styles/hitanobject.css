@@ -1,0 +1,19 @@
+@media screen and (min-width: 800px) {
+    #playField{
+        width: 800px;
+        height: 600px;
+        border: 3px solid black;
+    }
+}
+
+@media screen and (max-width: 799px) {
+    #playField{
+        height: 300px;
+        width: 300px;
+        border: 3px solid black;
+    }
+}
+
+#target {
+    position: relative;
+}

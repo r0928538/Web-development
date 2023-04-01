@@ -1,0 +1,13 @@
+img{
+    margin: 5px;
+    border: 10px solid black;
+}
+.leegruimte{
+    width: 200px;
+    height: 250px;
+    margin: 14px;
+}
+
+div{
+    display: inline-block;
+}
