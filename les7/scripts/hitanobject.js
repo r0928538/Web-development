@@ -47,7 +47,7 @@ const starten = () => {
 const speel = () => {
     let img = document.querySelector("img");
     img.addEventListener("click", geklikt);
-    global.timeoutId = setTimeout(verplaats, global.MOVE_DELAY);
+    global.timeoutId = setInterval(verplaats, global.MOVE_DELAY);
 }
 
 const deleteStart = () => {
@@ -69,7 +69,7 @@ const geklikt = () => {
         let score = document.querySelector("#score");
         score.textContent = global.score;
         clearTimeout(global.timeoutId);
-        global.timeoutId = setTimeout(verplaats, global.MOVE_DELAY);
+        global.timeoutId = setInterval(verplaats, global.MOVE_DELAY);
     }
 }
 

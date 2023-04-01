@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/les7/html/hitanobject.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/html/matchinggame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/images/achterkant.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/images/hitanobject0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/images/hitanobject1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/images/hitanobject2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/images/hitanobject3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/images/hitanobject4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/images/kaart1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/images/kaart2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/images/kaart3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/images/kaart4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/images/kaart5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/images/kaart6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/scripts/hitanobject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/scripts/memorygame.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/styles/hitanobject.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les7/styles/memorygame.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/les7/scripts/hitanobject.js" beforeDir="false" afterPath="$PROJECT_DIR$/les7/scripts/hitanobject.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +119,7 @@
       <workItem from="1679908807929" duration="13000" />
       <workItem from="1680092522109" duration="9436000" />
       <workItem from="1680182803791" duration="4169000" />
-      <workItem from="1680286851037" duration="15777000" />
+      <workItem from="1680286851037" duration="16096000" />
     </task>
     <servers />
   </component>
