@@ -14,6 +14,7 @@ const setup = () => {
 
 const toonKaart = (event) => {
     event.target.src = "../images/" + event.target.id + ".jpg";
+    event.target.style.pointerEvents = "none";
     let kaart = event.target;
     event.target.alt = altChecker(kaart);
     if(global.omgedraait.length === 1){
