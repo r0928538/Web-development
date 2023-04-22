@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/les7/scripts/hitanobject.js" beforeDir="false" afterPath="$PROJECT_DIR$/les7/scripts/hitanobject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les8/html/contactmanager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les8/html/dates.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les8/html/json.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les8/scripts/contactmanager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les8/scripts/dates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les8/scripts/json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les8/scripts/validatie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les8/styles/contactmanager.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -54,11 +64,11 @@
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les8\styles" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les8\scripts" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les8\html" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les7\scripts" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les7\images" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les7\styles" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les7\html" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les6\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -119,7 +129,9 @@
       <workItem from="1679908807929" duration="13000" />
       <workItem from="1680092522109" duration="9436000" />
       <workItem from="1680182803791" duration="4169000" />
-      <workItem from="1680286851037" duration="16096000" />
+      <workItem from="1680286851037" duration="16311000" />
+      <workItem from="1681906834275" duration="8977000" />
+      <workItem from="1682173827596" duration="5832000" />
     </task>
     <servers />
   </component>
