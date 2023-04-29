@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Storage demo vragen</title>
+</head>
+<body>
+<h1>Storage demo 1: globale variabelen</h1>
+<p>Blijft de data behouden als je de pagina herlaadt?<br>
+Neen, de data blijft niet behouden na herladen.</p>
+<p>Blijft de data behouden als je het tabblad sluit en de pagina opnieuw opent?<br>
+Neen, de data blijft niet behouden na opnieuw openen.</p>
+<p>Gebruiken twee tabbladen die dezelfde pagina tonen, dezelfde data?<br>
+Twee tabbladen met dezelfde pagina gebruiken verschillende data.</p>
+<h1>Storage demo JSON</h1>
+<p>Geef testdata in en druk op “Save changes”. <br>
+    Open de “Chrome developer tools” en selecteer het tabblad 'Application'. De ingegeven data
+    werd bewaard in een Json-String.</p>
+<img src="../images/jsonstorage1.png" alt="String met key-waarde VIVES.be.settingsPerson en value {'age':70,'weight':100,'budget':200}">
+<p>Refresh pagina of browser afsluiten en pagina opnieuw oproepen.</p>
+<img src="../images/jsonstorage2.png" alt="Gerefreshte pagina">
+<p>Druk vervolgens op Show data en de ingegeven data wordt terug opgehaald.</p>
+<img src="../images/jsonstorage3.png" alt="Dezelfde data, maar nu weer in textboxen na klikken op show data">
+<h1>Storage demo 2: session storage</h1>
+<p>Blijft de data behouden als je de pagina herlaadt?<br>
+    Ja, de data blijft behouden na herladen van de pagina.</p>
+<p>Blijft de data behouden als je het tabblad sluit en de pagina opnieuw opent?<br>
+    Neen, de data verdwijnt na het sluiten van het tabblad.</p>
+<p>Gebruiken twee tabbladen die dezelfde pagina tonen, dezelfde data?<br>
+    Neen, ze gebruiken andere data.</p>
+<p>Denk je dat een andere pagina (andere file of url) aan de data geraakt als je ze in hetzelfde
+    tabblad opent?<br>
+    Ik denk van niet, want de data staat niet meer bij "Application" als ik het probeer.</p>
+<h1>Storage demo 3: local storage</h1>
+<p>Blijft de data behouden als je de pagina herlaadt?<br>
+    Ja, de data blijft behouden na herladen van de pagina.</p>
+<p>Blijft de data behouden als je het tabblad sluit en de pagina opnieuw opent?<br>
+    Ja, de data blijft behouden na opnieuw openen.</p>
+<p>Blijft de data behouden als je de browser afsluit, opnieuw start en de pagina weer opent? <br>
+    Ja, de data blijft er nog steeds behouden.</p>
+<p> Blijft de data behouden als je de pagina in een andere browser opent?<br>
+    Neen, in een andere brouwser wordt de data niet meer behouden.</p>
+<p>Wordt de data gedeeld door verschillende tabbladen als je de pagina meermaals opent?<br>
+    Ja, ze gebruiken allemaal dezelfde data.</p>
+<p>Denk je dat een andere pagina (andere file of url) aan de data geraakt als je ze in hetzelfde
+    tabblad opent?<br>
+    Ja, ik kan de data nog steeds in local storage zien bij andere urls.</p>
+</body>
+</html>
