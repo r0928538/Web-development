@@ -37,9 +37,11 @@ const storeSwatches = () => {
 };
 
 const restoreSwatches = () => {
-    let swatches = JSON.parse(localStorage.swatches);
-    for(let i = 0; i < swatches.length; i++){
-        let kleuren = swatches[i].split(" ");
-        addSwatchComponent(kleuren[0], kleuren[1], kleuren[2]);
+    if (localStorage.hasOwnProperty("swatches")) {
+        let swatches = JSON.parse(localStorage.swatches);
+        for(let i = 0; i < swatches.length; i++){
+            let kleuren = swatches[i].split(" ");
+            addSwatchComponent(kleuren[0], kleuren[1], kleuren[2]);
+        }
     }
 };

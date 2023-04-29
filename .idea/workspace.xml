@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/les9/html/colorpicker.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les9/html/opdracht1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les9/images/jsonstorage1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les9/images/jsonstorage2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les9/images/jsonstorage3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les9/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les9/scripts/colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les9/scripts/storage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les9/scripts/swatch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les9/styles/colorpicker.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/les9/html/colorpicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/les9/html/colorpicker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/les9/scripts/storage.js" beforeDir="false" afterPath="$PROJECT_DIR$/les9/scripts/storage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +125,8 @@
       <workItem from="1681906834275" duration="8977000" />
       <workItem from="1682173827596" duration="6583000" />
       <workItem from="1682704888802" duration="446000" />
-      <workItem from="1682706028896" duration="9924000" />
+      <workItem from="1682706028896" duration="10121000" />
+      <workItem from="1682777815338" duration="765000" />
     </task>
     <servers />
   </component>
