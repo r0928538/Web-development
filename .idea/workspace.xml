@@ -2,9 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8720fb96-9f62-42ce-be97-0f834201c7be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les10/html/myinternetstartpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les10/html/tafels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les10/images/oefeningTafelsEindresultaat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les10/images/oefeningTafelsvoorbeeld1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les10/images/startOefeningTafels.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les10/scripts/internetstartpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les10/scripts/tafels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les10/styles/internetpage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les10/styles/tafels.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Web-development.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Web-development.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/les9/html/colorpicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/les9/html/colorpicker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/les9/scripts/storage.js" beforeDir="false" afterPath="$PROJECT_DIR$/les9/scripts/storage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo10/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo10/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo10/html/bootstrap.htm" beforeDir="false" afterPath="$PROJECT_DIR$/Labo10/html/bootstrap.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,9 +69,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -40,7 +95,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ciuka/Documents/GitHub/Web-development/les7/scripts&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ciuka/Documents/GitHub/Web-development/bootstrap&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
@@ -49,18 +104,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\bootstrap" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les10\styles" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les7\scripts" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\html" />
       <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\Labo10\css" />
-      <recent name="C:\Users\szymon.lysiak\Documents\GitHub\Web-development\Labo7\html" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les9\styles" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les9\scripts" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les9\html" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les9\images" />
-      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les8\styles" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\bootstrap" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les10" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les10\styles" />
+      <recent name="C:\Users\ciuka\Documents\GitHub\Web-development\les10\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -126,7 +181,9 @@
       <workItem from="1682173827596" duration="6583000" />
       <workItem from="1682704888802" duration="446000" />
       <workItem from="1682706028896" duration="10121000" />
-      <workItem from="1682777815338" duration="765000" />
+      <workItem from="1682777815338" duration="864000" />
+      <workItem from="1683114600082" duration="11075000" />
+      <workItem from="1683979776316" duration="10375000" />
     </task>
     <servers />
   </component>

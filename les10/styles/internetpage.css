@@ -1,0 +1,71 @@
+input[type=text]{
+    width: 100%;
+    border-radius: 2px;
+    border: 1px solid blue;
+}
+input[type=text]:focus{
+    width: 100%;
+    border-radius: 2px;
+    border: 3px solid lightblue;
+}
+label{
+    width: 100%;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+input[type=button]{
+    width: 100%;
+}
+#buttongo{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
+p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+div.card{
+    box-sizing: border-box;
+    border: 10px solid white;
+    background-color: white;
+}
+div.card-body{
+    border-radius: 5px;
+    //background-color: #0a53be;
+    //color:white;
+}
+a.card-link{
+    border-radius: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+}
+a.card-link:hover{
+    color:white;
+}
+.instagram{
+    background-color: mediumpurple;
+}
+a.instagram{
+    background-color: orange;
+    color:white;
+}
+.youtube{
+    background-color: red;
+}
+a.youtube, a.twitter{
+    background-color: black;
+    color: white;
+}
+.twitter{
+    background-color: #0dcaf0;
+}
+.google{
+    background-color: #0d6efd;
+}
+a.google{
+    background-color: indianred;
+    color: lightyellow;
+}
