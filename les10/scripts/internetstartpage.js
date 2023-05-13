@@ -28,7 +28,7 @@ const commanduitvoeren = () => {
         }
         let historyCard = {
             title: getTitle(commando),
-            text: textwaarde.replace("+", " "),
+            text: textwaarde.replaceAll("+", " "),
             url: getUrl(commando, textwaarde)
         }
             window.open(historyCard.url, "_blank"); //om dit te laten werken moeten pop-ups toegestaan zijn
