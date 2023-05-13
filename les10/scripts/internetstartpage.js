@@ -12,6 +12,7 @@ const setup = () => {
 const commanduitvoeren = () => {
     let textinput = document.querySelector("input[type=text]").value;
     let commando = getCommando(textinput);
+    document.querySelector("input[type=text]").value = "";
     if(commando === null){
         alert("Fout commando.");
     }
